@@ -1,2 +1,1 @@
-# mythili-aid
-My AI &amp; Data Science learning journey 
+My AI & Data Science learning journey
